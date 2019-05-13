@@ -19,7 +19,7 @@
     "beautywe",
     "beautywe-plugin"
   ],
-  "author": "",
+  "author": "JerryC Huang",
   "devDependencies": {
     "@beautywe/core": "^0.0.1",
     "@babel/register": "^7.4.0",
@@ -53,5 +53,18 @@
   "nyc": {
     "sourceMap": false,
     "instrument": false
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautywe/plugin-log.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beautywe/plugin-log/issues"
+  },
+  "homepage": "https://github.com/beautywe/plugin-log#readme"
 }
