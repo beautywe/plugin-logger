@@ -2,8 +2,9 @@
 Logger plugin for BeautyWe.
 
 [![CircleCI](https://img.shields.io/circleci/project/github/beautywe/plugin-logger/master.svg)](https://circleci.com/gh/beautywe/plugin-logger)
-
-[![NPM Version](https://img.shields.io/npm/v/@beautywe/plugin-logger.svg)](https://www.npmjs.com/package/@beautywe/plugin-logger) [![NPM Downloads](https://img.shields.io/npm/dm/@beautywe/plugin-logger.svg)](https://www.npmjs.com/package/@beautywe/plugin-logger) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@beautywe/plugin-logger.svg)
+[![NPM Version](https://img.shields.io/npm/v/@beautywe/plugin-logger.svg)](https://www.npmjs.com/package/@beautywe/plugin-logger) 
+[![NPM Downloads](https://img.shields.io/npm/dm/@beautywe/plugin-logger.svg)](https://www.npmjs.com/package/@beautywe/plugin-logger) 
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/@beautywe/plugin-logger.svg)
 [![Coverage Status](https://coveralls.io/repos/github/beautywe/plugin-logger/badge.svg)](https://coveralls.io/github/beautywe/plugin-logger)
 
 
